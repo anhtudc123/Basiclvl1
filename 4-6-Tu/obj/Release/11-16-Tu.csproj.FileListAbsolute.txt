@@ -1,0 +1,3 @@
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Release\11-16-Tu.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Release\11-16-Tu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Release\11-16-Tu.csproj.CoreCompileInputs.cache

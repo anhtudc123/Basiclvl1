@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Debug\11-16-Tu.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Debug\11-16-Tu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Debug\11-16-Tu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\11-16-Tu\bin\Debug\11-16-Tu.exe.config
+C:\Users\DELL\Source\Repos\11-16-Tu\bin\Debug\11-16-Tu.exe
+C:\Users\DELL\Source\Repos\11-16-Tu\bin\Debug\11-16-Tu.pdb
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Debug\11-16-Tu.exe
+C:\Users\DELL\Source\Repos\11-16-Tu\obj\Debug\11-16-Tu.pdb
