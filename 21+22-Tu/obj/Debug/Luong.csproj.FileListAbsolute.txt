@@ -1,0 +1,8 @@
+C:\Users\DELL\Source\Repos\Luong\bin\Debug\Luong.exe.config
+C:\Users\DELL\Source\Repos\Luong\bin\Debug\Luong.exe
+C:\Users\DELL\Source\Repos\Luong\bin\Debug\Luong.pdb
+C:\Users\DELL\Source\Repos\Luong\obj\Debug\Luong.csproj.AssemblyReference.cache
+C:\Users\DELL\Source\Repos\Luong\obj\Debug\Luong.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Source\Repos\Luong\obj\Debug\Luong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\Luong\obj\Debug\Luong.exe
+C:\Users\DELL\Source\Repos\Luong\obj\Debug\Luong.pdb
