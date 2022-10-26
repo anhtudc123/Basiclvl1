@@ -13,4 +13,10 @@ namespace b4product
         public int Quality { get; set; }
         public int Categoryid { get; set; }
     }
+    internal class Category
+    {
+        public int Categoryid { get; set; }
+        public string Name { get; set; }
+
+    }
 }
